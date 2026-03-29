@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Akshith Saram
 
-<!--
-**Akshith164/Akshith164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🏆 GATE 2026 Qualified (DA & CS)  
+💻 Passionate about Java, Machine Learning & Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Programming: Java, Python, C  
+- Web: HTML, CSS  
+- ML: Pandas, NumPy, Scikit-learn  
+- Database: MySQL  
+
+---
+
+## 📂 Projects
+- 🔹 Placement Predictor (ML + Flask)  
+- 🔹 Car Price Prediction  
+- 🔹 Portfolio Website  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/akshithsaram172
+- Email: akshithsaram1542@gmail.com
