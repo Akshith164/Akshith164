@@ -14,9 +14,8 @@
 
 ---
 
-## 📂 Projects
-- 🔹 Placement Predictor (ML + Flask)  
-- 🔹 Car Price Prediction  
+## 📂 Projects  
+- 🔹 Car Price Prediction (ML + Flask) 
 - 🔹 Portfolio Website  
 
 ---
